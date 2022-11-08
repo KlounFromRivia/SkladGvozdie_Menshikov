@@ -1,0 +1,35 @@
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.exe.config
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.exe
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.pdb
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.AssemblyReference.cache
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.Form1.resources
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.Properties.Resources.resources
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.GenerateResource.cache
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.CoreCompileInputs.cache
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.exe
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.pdb
+D:\СП_Меньшиков_Черницкий_ИП-20-3\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.FormStudentInfo.resources
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.exe.config
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.exe
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.pdb
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.AssemblyReference.cache
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.SuggestedBindingRedirects.cache
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.Form1.resources
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.Properties.Resources.resources
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.GenerateResource.cache
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.CoreCompileInputs.cache
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.exe
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.pdb
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.FormTovarInfo.resources
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.exe.config
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.exe
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.pdb
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.AssemblyReference.cache
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.SuggestedBindingRedirects.cache
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.Form1.resources
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.FormTovarInfo.resources
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.Properties.Resources.resources
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.GenerateResource.cache
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.csproj.CoreCompileInputs.cache
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.exe
+D:\Перенос на другой ПК\Курсы С#\UserStory_Men_Cher\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.pdb
